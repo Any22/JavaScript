@@ -1,4 +1,5 @@
 // Write a JavaScript program to display the current day and time in the following format
+
 const dateArray=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 const d = new Date();
 const day = d.getDay();
